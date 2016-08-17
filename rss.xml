@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[me resuelve]]></title>
+        <description><![CDATA[me resuelve]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Aug 2016 22:35:07 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[VALDRES - A Norwegian Landscape Time-Lapse]]></title>
+            <description><![CDATA[<article><h1>VALDRES - A Norwegian Landscape Time-Lapse</h1><p>facebook.com/RustadMedia. Please watch in HD with headphones or good speakers for the best experience! NORWEGIAN: Denne sommeren var jeg så heldig å kunne jobbe og bo i Valdes. Mens jeg bodde her, lagde jeg denne time-lapse filmen av den nærliggende naturen og landskapet.</p></article>]]></description>
+            <link>https://vimeo.com/72306156</link>
+            <guid isPermaLink="false">3fd6d736-4340-4b28-b93a-e56591e0cdfa</guid>
+            <pubDate>Wed, 17 Aug 2016 22:35:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
